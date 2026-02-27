@@ -31,7 +31,7 @@ A Telegram message forwarding bot built with Python and Telethon. Automatically 
 
 1. **Clone the repository**
 ```bash
-git https://github.com/Anonytikus05/Anoward-Telegram-Forwarder
+git clone https://github.com/Anonytikus05/Anoward-Telegram-Forwarder
 cd Anoward-Telegram-Forwarder
 ```
 
